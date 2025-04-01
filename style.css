@@ -6,6 +6,7 @@ body {
 .main_div {
   width: 900px;
   margin: 0 auto;
+  display: flex;
  } 
 
 .main_div td {
@@ -15,6 +16,9 @@ body {
 }	
 
 .div_red {
+  display: flex;
+  justify-content: center;
+  align-items: center;
   width: 100px;
   height: 100px;
   background-color: red;
@@ -22,16 +26,42 @@ body {
 }
 
 .div_green {
+  display: flex;
+  justify-content: center;
+  align-items: center;
   width: 100px;
   height: 100px;
   background-color: green;
   margin: 20px;
 }
 
-.div_grey {
+.div_blue {
+  display: flex;
+  justify-content: center;
+  align-items: center;
   width: 100px;
   height: 100px;
   background-color: grey;
+  margin: 20px;
+}
+
+.div_grey {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100px;
+  height: 100px;
+  background-color: grey;
+  margin: 20px;
+}
+
+.div_yellow {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100px;
+  height: 100px;
+  background-color: yellow;
   margin: 20px;
 }
 

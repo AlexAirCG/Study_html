@@ -28,19 +28,14 @@ body {
   margin: 20px;
 }
 
-.div_blue {
+.div_grey {
   width: 100px;
   height: 100px;
-  background-color: blue;
+  background-color: grey;
   margin: 20px;
 }
 
-.div_yellow {
-  width: 100px;
-  height: 100px;
-  background-color: yellow;
-  margin: 20px;
-}
+
 
 
 	
